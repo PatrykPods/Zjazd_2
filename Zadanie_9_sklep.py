@@ -51,4 +51,4 @@ while True :
             ilosc = int(input("podaj ilosc towaru"))
 
             for nazwa in products :
-                products[nazwa] = products[nazwa] + ilosc
+                products[f"{nazwa}"] = products[f"{nazwa}"] + ilosc

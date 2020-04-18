@@ -1,11 +1,14 @@
 lista = [9,1,6,8,4,3,2,0]
-lista_2 = []
 
+for indeks_podstawienia in range(len(lista)) :
+    indeks_min_wartosci = indeks_podstawienia
 
-for x in lista :
-    if x == min(lista) :
-        lista_2.append(x)
-        del lista[min(lista)]
+    for indeks_ogona in range(indeks_podstawienia + 1, len(lista)) :
+        if lista[indeks_ogona] < lista[indeks_min_wartosci]:
+            indeks_min_wartosci = indeks_ogona
+    lista[indeks_podstawienia], lista[indeks_min_wartosci] = lista[indeks_min_wartosci], lista[indeks_podstawienia]
+
 print(lista)
-print(lista_2)
+
+
 

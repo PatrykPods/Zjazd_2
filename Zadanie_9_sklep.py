@@ -50,5 +50,5 @@ while True :
             nazwa = input("podaj nazwe")
             ilosc = int(input("podaj ilosc towaru"))
 
-            for nazwa in products :
-                products[f"{nazwa}"] = products[f"{nazwa}"] + ilosc
+            for nazwa in magazyn :
+                magazyn[f"{nazwa}"] = magazyn[f"{nazwa}"] + ilosc

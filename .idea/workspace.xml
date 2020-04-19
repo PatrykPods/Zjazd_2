@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="43b860ea-94a7-4cf1-9eca-694efde33ab7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/definiowanie funkcji.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zadanie_1_liczba_pierwsza.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zadanie_znaki.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Zjazd_2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Zjazd_2.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zadanie_1_liczba_pierwsza.py" beforeDir="false" afterPath="$PROJECT_DIR$/zadanie_1_liczba_pierwsza.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,8 +34,10 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/zadanie_1_liczba_pierwsza.py" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.definiowanie funkcji">
+  <component name="RunManager" selected="Python tests.pytest in zadanie_1_liczba_pierwsza.py 2">
     <configuration name="045_wyrazenia_skladane" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Zjazd_2" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -98,27 +101,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="sortowanie_przez_wybieranie" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Zjazd_2" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sortowanie_przez_wybieranie.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="zadani_13" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Zjazd_2" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -140,13 +122,73 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="zadanie_1_liczba_pierwsza" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Zjazd_2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zadanie_1_liczba_pierwsza.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in zadanie_1_liczba_pierwsza.py 2" type="tests" factoryName="py.test">
+      <module name="Zjazd_2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="C:\Users\patry\PycharmProjects\Zjazd_2\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/zadanie_1_liczba_pierwsza.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in zadanie_1_liczba_pierwsza.py" type="tests" factoryName="py.test" nameIsGenerated="true">
+      <module name="Zjazd_2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="C:\Users\patry\PycharmProjects\Zjazd_2\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/zadanie_1_liczba_pierwsza.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.045_wyrazenia_skladane" />
+      <item itemvalue="Python.definiowanie funkcji" />
+      <item itemvalue="Python.zadani_13" />
+      <item itemvalue="Python.zadanie_1_liczba_pierwsza" />
+      <item itemvalue="Python.Zadanie_9_sklep" />
+      <item itemvalue="Python tests.pytest in zadanie_1_liczba_pierwsza.py" />
+      <item itemvalue="Python tests.pytest in zadanie_1_liczba_pierwsza.py 2" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.zadanie_1_liczba_pierwsza" />
         <item itemvalue="Python.definiowanie funkcji" />
         <item itemvalue="Python.045_wyrazenia_skladane" />
         <item itemvalue="Python.Zadanie_9_sklep" />
         <item itemvalue="Python.zadani_13" />
-        <item itemvalue="Python.sortowanie_przez_wybieranie" />
       </list>
     </recent_temporary>
   </component>
@@ -164,25 +206,37 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1345" height="179" key="GridCell.Tab.0.bottom" timestamp="1587280872312">
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587285048349">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1587280872312" />
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1587285048349" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1587285029082">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1587285029082" />
+    <state width="1345" height="199" key="GridCell.Tab.0.bottom" timestamp="1587285248155">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="199" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1587285248155" />
     <state width="1345" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587244892632" />
-    <state width="1345" height="179" key="GridCell.Tab.0.center" timestamp="1587280872311">
+    <state width="1345" height="199" key="GridCell.Tab.0.center" timestamp="1587285248155">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1587280872311" />
+    <state width="1345" height="199" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1587285248155" />
     <state width="1345" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1587244892631" />
-    <state width="1345" height="179" key="GridCell.Tab.0.left" timestamp="1587280872311">
+    <state width="1345" height="199" key="GridCell.Tab.0.left" timestamp="1587285248155">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1587280872311" />
+    <state width="1345" height="199" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1587285248155" />
     <state width="1345" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1587244892631" />
-    <state width="1345" height="179" key="GridCell.Tab.0.right" timestamp="1587280872311">
+    <state width="1345" height="199" key="GridCell.Tab.0.right" timestamp="1587285248155">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1587280872311" />
+    <state width="1345" height="199" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1587285248155" />
     <state width="1345" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1587244892631" />
+    <state x="184" y="6" key="SettingsEditor" timestamp="1587284556047">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="6" key="SettingsEditor/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1587284556047" />
   </component>
 </project>

@@ -1,12 +1,17 @@
 def czy_jest_pierwsza(x) :
-    i = 0
 
-    for i in range(2,(x - 1)) :
+
+    for i in range(2,x) :
         if x % i == 0 :
-            print("false")
-            return "false"
-        else :
-            print("true")
-            return "true"
+            return False
 
-czy_jest_pierwsza(8)
+    return True
+
+assert czy_jest_pierwsza(11) == True
+assert czy_jest_pierwsza(8) == False
+
+def test_czy_jest_pierwsza_dla_liczby_pierwszej()
+    assert czy_jest_pierwsza(11) == True
+    assert czy_jest_pierwsza(17) == True
+
+

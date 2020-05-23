@@ -1,3 +1,5 @@
+
+
 products = {
     "ziemniaki" : 1.99,
     "pomidory" : 1.50,
@@ -23,13 +25,13 @@ while True :
         print("nasz sklep oferuje:")
 
         for name, price in products.items() :
-            print(f"{name} w cenie {price} PLN")
+            print(f"{name} w cenie {price} PLN (stan: {magazyn[name]}")
 
 
         item = input("co chcesz kupic?")
 
         if item in products :
-            counter = input(f"ile chcesz kupic {item}?")
+            counter = input(f"ile chcesz kupic [{item}]?")
             counter = float(counter)
 
             if counter <= magazyn[item] :
@@ -38,17 +40,11 @@ while True :
             else:
                 print("nie mamy tyle produktów")
     elif komenda == "m":
-        komenda_2 = input("co chcesz zrobic? [n-dodaj nowy towar] [i-dodaj do zapasow]")
-        if komenda_2 == "n" :
-            nazwa = input("podaj nazwe towaru:")
-            cena = float(input("podaj cene:"))
-            ilosc = int(input("podaj ilosc"))
-
-            magazyn[f"{nazwa}"] = f"{ilosc}"
-            products[f"{nazwa}"] = f"{cena}"
-        elif komenda_2 == "i" :
-            nazwa = input("podaj nazwe")
-            ilosc = int(input("podaj ilosc towaru"))
-
-            for nazwa in magazyn :
-                magazyn[f"{nazwa}"] = magazyn[f"{nazwa}"] + ilosc
+        nazwa=input("Co dodajemy?")
+        ilosc=int(input(f"podaj ilosc {nazwa}"))
+        magazyn[nazwa] = magazyn.get(nazwa, 0) + ilosc
+        if nazwa not in products:
+            cena = float(input(f"podaj cene za {nazwa}"))
+            products[nazwa] = cena
+    else:
+        print("niezrozumiala komenda")

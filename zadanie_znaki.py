@@ -1,16 +1,9 @@
 def zliczanie(text, counter) :
-    znaki = dict()
-    znaki_2 = set()
-    for x in text :
-        if x in znaki :
-            znaki[x] = znaki[x] + 1
-        else :
-            znaki[x] = 1
-
-        if znaki[x] > counter :
-            znaki_2.add(x)
-
-    return znaki_2
+    zbior = set()
+    for znak in set(text) :
+        if text.count(znak) > counter :
+            zbior.add(znak)
+    return zbior
 
 
 print(zliczanie("aaaaa bbbb ccccc", 4))

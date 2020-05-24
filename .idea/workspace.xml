@@ -2,15 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="43b860ea-94a7-4cf1-9eca-694efde33ab7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/gra/gra.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/silnia.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zadani_imiona_nazwiska.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zadanie_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zadanie_6_formatuj_cena.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/005/mathematica_project/mathematica/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/005/mathematica_project/mathematica/algebra/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/005/mathematica_project/mathematica/algebra/matrices.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/005/mathematica_project/mathematica/geometry/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/005/mathematica_project/mathematica/geometry/figures.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/005/mathematica_project/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/005/mathematica_project/tests/test_algebra.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/005/mathematica_project/tests/test_geometry.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/006/python employees.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/007/example_gui.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/007/zadani_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dane.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gra/obiekty.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gra/test_obiekty.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Zjazd_2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Zjazd_2.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Zadanie_9_sklep.py" beforeDir="false" afterPath="$PROJECT_DIR$/Zadanie_9_sklep.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/definiowanie funkcji.py" beforeDir="false" afterPath="$PROJECT_DIR$/definiowanie funkcji.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadanie_znaki.py" beforeDir="false" afterPath="$PROJECT_DIR$/zadanie_znaki.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gra/gra.py" beforeDir="false" afterPath="$PROJECT_DIR$/gra/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,8 +50,8 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../zjazd_4" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.gra">
-    <configuration name="Zadanie_9_sklep" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.zadani_3">
+    <configuration name="example_gui" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Zjazd_2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -51,11 +59,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/007" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Zadanie_9_sklep.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/007/example_gui.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -64,7 +72,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="gra" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="python employees" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Zjazd_2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -72,11 +80,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/gra" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/006" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gra/gra.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/006/python employees.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -85,7 +93,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="silnia" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="test_algebra" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Zjazd_2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -93,11 +101,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/005/mathematica_project/tests" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/silnia.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/005/mathematica_project/tests/test_algebra.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -106,7 +114,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="sortowanie_przez_wybieranie" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="zadani_3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Zjazd_2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -114,11 +122,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/007" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sortowanie_przez_wybieranie.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/007/zadani_3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -127,19 +135,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest in silnia.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest for test_geometry.test_triangle_area" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="Zjazd_2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/005/mathematica_project/tests" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/silnia.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <option name="_new_target" value="&quot;test_geometry.test_triangle_area&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <configuration name="pytest in zadanie_1_liczba_pierwsza.py 2" type="tests" factoryName="py.test">
@@ -188,22 +196,22 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.Zadanie_9_sklep" />
-      <item itemvalue="Python.silnia" />
-      <item itemvalue="Python.sortowanie_przez_wybieranie" />
       <item itemvalue="Python tests.pytest in zadanie_1_liczba_pierwsza.py 2" />
       <item itemvalue="Python tests.pytest in zadanie_1_liczba_pierwsza.py" />
       <item itemvalue="Python tests.pytest in zadanie_3.py" />
-      <item itemvalue="Python tests.pytest in silnia.py" />
-      <item itemvalue="Python.gra" />
+      <item itemvalue="Python tests.pytest for test_geometry.test_triangle_area" />
+      <item itemvalue="Python.test_algebra" />
+      <item itemvalue="Python.python employees" />
+      <item itemvalue="Python.example_gui" />
+      <item itemvalue="Python.zadani_3" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.gra" />
-        <item itemvalue="Python.Zadanie_9_sklep" />
-        <item itemvalue="Python.silnia" />
-        <item itemvalue="Python tests.pytest in silnia.py" />
-        <item itemvalue="Python.sortowanie_przez_wybieranie" />
+        <item itemvalue="Python.zadani_3" />
+        <item itemvalue="Python.example_gui" />
+        <item itemvalue="Python.python employees" />
+        <item itemvalue="Python.test_algebra" />
+        <item itemvalue="Python tests.pytest for test_geometry.test_triangle_area" />
       </list>
     </recent_temporary>
   </component>
@@ -225,29 +233,37 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1587293989347" />
+    <state x="434" y="167" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1590310306582">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="434" y="167" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1590310306582" />
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1590309830067">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1590309830067" />
     <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1590217229628">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1590217229628" />
-    <state width="1345" height="199" key="GridCell.Tab.0.bottom" timestamp="1590223820965">
+    <state width="1345" height="199" key="GridCell.Tab.0.bottom" timestamp="1590311873031">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="199" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1590223820965" />
+    <state width="1345" height="199" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1590311873031" />
     <state width="1345" height="199" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1589632769035" />
-    <state width="1345" height="199" key="GridCell.Tab.0.center" timestamp="1590223820965">
+    <state width="1345" height="199" key="GridCell.Tab.0.center" timestamp="1590311873031">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="199" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1590223820965" />
+    <state width="1345" height="199" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1590311873031" />
     <state width="1345" height="199" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1589632769034" />
-    <state width="1345" height="199" key="GridCell.Tab.0.left" timestamp="1590223820965">
+    <state width="1345" height="199" key="GridCell.Tab.0.left" timestamp="1590311873030">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="199" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1590223820965" />
+    <state width="1345" height="199" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1590311873030" />
     <state width="1345" height="199" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1589632769034" />
-    <state width="1345" height="199" key="GridCell.Tab.0.right" timestamp="1590223820965">
+    <state width="1345" height="199" key="GridCell.Tab.0.right" timestamp="1590311873031">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="199" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1590223820965" />
+    <state width="1345" height="199" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1590311873031" />
     <state width="1345" height="199" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1589632769035" />
     <state width="1345" height="223" key="GridCell.Tab.1.bottom" timestamp="1588193409964">
       <screen x="0" y="0" width="1366" height="728" />
@@ -269,5 +285,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="6" key="SettingsEditor/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1587284556047" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1590304667590">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1590304667590" />
   </component>
 </project>
